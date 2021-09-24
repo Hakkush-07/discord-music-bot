@@ -7,5 +7,3 @@ A discord bot with basic music playing features. Replace the bot token with your
 - requests
 - PyNaCl
 
-**Missing Features:** There is no queue, trying to play a song while another one is playing just causes an error.
-
