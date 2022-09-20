@@ -4,7 +4,6 @@ import re
 import json
 import discord
 
-
 class Audio:
     def __init__(self, query):
         self.query = query
